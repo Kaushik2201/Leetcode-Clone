@@ -60,14 +60,16 @@ Features I have Implemented
 
 * Few pictures of the Leet-Clone Website
   * Home page of a logged in user
-    ![image](https://github.com/Kaushik2201/Leetcode-Clone/assets/118542939/1592970f-c70b-4cd2-872f-9d8328fed5b5)
+    ![image](https://github.com/Kaushik2201/Leetcode-Clone/assets/118542939/8a0a74e3-cfbd-4ca7-8a8f-ed349b13860e)
+
     User have solved the tick-marked problems
 
   * Problem Interface Looks something like this
-    ![image](https://github.com/Kaushik2201/Leetcode-Clone/assets/118542939/81f6c6a5-b7df-4370-bd36-da0872d21f2f)
+    ![image](https://github.com/Kaushik2201/Leetcode-Clone/assets/118542939/43bc722d-56ea-40e3-bc46-8e58278f7263)
 
   * Authentication Page
-    ![image](https://github.com/Kaushik2201/Leetcode-Clone/assets/118542939/980ca56a-bf15-468c-88ed-6a245d67c36a)
+    ![image](https://github.com/Kaushik2201/Leetcode-Clone/assets/118542939/ca3e6721-3293-43fd-9687-4ba4da49de78)
+
 
 
 * For Deployed website visite [Code-Up](https://code-up-kappa.vercel.app/)
