@@ -1,6 +1,6 @@
 # Leetcode Clone
 
-What I have understood from the Problem Statement 
+
 We have to make a clone of Leet Code Website.
 
 
