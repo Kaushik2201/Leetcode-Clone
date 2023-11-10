@@ -1,9 +1,6 @@
 # Leetcode Clone
 
 
-We have to make a clone of Leet Code Website.
-
-
 Features I have Implemented
 * Authentication
   * Log-In
