@@ -1,7 +1,4 @@
-# Task ID: Leetcode Clone
-
-Mentors : Shubham Rasal and Sujay
-
+# Leetcode Clone
 
 What I have understood from the Problem Statement 
 We have to make a clone of Leet Code Website.
@@ -74,5 +71,5 @@ Features I have Implemented
 
 * For Deployed website visite [Code-Up](https://code-up-kappa.vercel.app/)
 
+* Built By - [Kaushik V Kudchadkar](https://www.linkedin.com/in/kaushik-kudchadkar-23221a253/)
 
-Built By - Kaushik Kudchadkar - 221EE115
